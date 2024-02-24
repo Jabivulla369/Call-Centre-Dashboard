@@ -173,5 +173,5 @@ Based on the insights gathered, our call centre operations exhibit a robust perf
 
 ## DASHBOARD:
 
-![Page 1]("C:\Users\shaik ismail\Desktop\Call Center\CCD Home.png")
-![Page 2]("C:\Users\shaik ismail\Desktop\Call Center\CCD Grid.png")
+![Page 1](["C:\Users\shaik ismail\Desktop\Call Center\CCD Home.png"](https://github.com/Jabivulla369/Call-Centre-Dashboard/blob/d0dca3d9855c8817f007b6fe44bdf2724cc90638/CCD%20Home.png))
+![Page 2](["C:\Users\shaik ismail\Desktop\Call Center\CCD Grid.png"](https://github.com/Jabivulla369/Call-Centre-Dashboard/blob/d0dca3d9855c8817f007b6fe44bdf2724cc90638/CCD%20Grid.png))
