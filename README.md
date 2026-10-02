@@ -176,7 +176,7 @@ git clone [https://github.com/Jabivulla369/Call-Centre-Dashboard.git](https://gi
 * **Shaik Mohammad Ismael Jabivulla**
 * [GitHub Profile](https://github.com/Jabivulla369)
 
-```
+
 <img width="1410" height="775" alt="image" src="https://github.com/user-attachments/assets/8596828a-77a6-4f0b-8bf1-3b1efd6c3ac7" />
 <img width="1405" height="776" alt="image" src="https://github.com/user-attachments/assets/9112d689-5bf6-43be-9d42-2dc060f5d6ab" />
-```
+
